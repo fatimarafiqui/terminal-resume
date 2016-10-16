@@ -1,0 +1,74 @@
+                                {
+	"help": {
+		"title": "jedi",
+		"msg": "help_text",
+		"help": "Get a Jedi to help you.",
+		"animate": false
+	},
+	"cd": {
+		"title": "root",
+		"msg": "",
+		"animate": false,
+		"help": ""
+	},
+	"ls": {
+		"title": "root",
+		"msg": "<a href='http://fatimarafiqui.com/resume.pdf' target='_blank'>Resume-FatimaRafiqui.pdf</a> <a href='#' class='email'>DetailedResume-FatimaRafiqui.pdf</a><script>$('.email').on( 'click', function(event) {event.preventDefault();var email = 'hello@fatimarafiqui.com';var subject = 'I saw your terminal resume';window.location = 'mailto:' + email + '?subject=' + subject;});</script>",
+		"animate": false,
+		"help": ""
+	},
+	"sudo*": {
+		"title": "root",
+		"msg": "",
+		"animate": false,
+		"help": "Root Privileges"
+	},
+	"whoami": {
+		"title": "fatima/about",
+		"msg": "Fatima Rafiqui: DevOps intern @ Oracle Cloud Infrastructure. A thinker, a technophile & an engineer. She loves travelling, programming, designs & volunteering.",
+		"animate": true,
+		"help": "About me."
+	},
+	"locate": {
+		"title": "fatima/about",
+		"msg": "Internet has cats' photos, not addresses and phone numbers.",
+		"animate": true,
+		"help": "Give it a try."
+	},
+	"education": {
+		"title": "fatima/education",
+		"msg": "<table><tr><td>*</td><td>Senior, CSE (2013-2017), Indira Gandhi Delhi Technical University of Women</td></tr><tr><td></td><td>2012, Jamia Girls Senior Secondary School</td></tr><tr><td></td><td>2010, Hamdard Public School </td></tr></table>",
+		"animate": true,
+		"help": "Know about my education."
+	},
+	"college": {
+		"title": "fatima/education",
+		"msg": "Senior, CSE (2013-2017), Indira Gandhi Delhi Technical University of Women",
+		"animate": true,
+		"help": "Know about my college."
+	},
+	"publications": {
+		"title": "fatima/publications",
+		"msg": "<table><tr><td>- </td><td>P. Attri, F. Rafiqui and N. Rawal, '<b>Traffic Signal Preemption (TSP) System by Ordinary Vehicles in case of Emergency based on Internet of Things Ecosystem </b>’, 3rd International Conference on Computing for Sustainable Global Development(INDIACom), BVICAM, New Delhi, India 2016 </td></tr ></table>",
+		"animate": true,
+		"help": "Know about my publications."
+	},
+	"resume": {
+		"title": "fatima/resume",
+		"msg": "<a href='http://fatimarafiqui.com/resume.pdf' target='_blank'>Download Resume</a>",
+		"animate": true,
+		"help": "Download my resume"
+	},
+	"contact": {
+		"title": "fatima/contact",
+		"msg": "<a href='http://fatimarafiqui.com' target='_blank'>website</a> / <a href='#' class='email'>e-mail</a> / <a href='http://fatimarafiqui.com/twitter' target='_blank'>twitter</a> / <a href='http://fatimarafiqui.com/linkedin' target='_blank'>linkedin</a> / <a href='http://fatimarafiqui.com/quora' target='_blank'>quora</a>/ <a href='http://fatimarafiqui.com/behance' target='_blank'>behance</a><script>$('.email').on( 'click', function(event) {event.preventDefault();var email = 'hello@fatimarafiqui.com';var subject = 'I saw your terminal resume';window.location = 'mailto:' + email + '?subject=' + subject;});</script>",
+		"animate": true,
+		"help": "Know about my contact."
+	},
+	"default": {
+		"title": "nowhere",
+		"msg": "We're doomed - C3PO<br/>Try 'help'",
+		"animate": true,
+		"help": ""
+	}
+}
