@@ -111,7 +111,7 @@ $(document).ready(function(){
 					$.ajax({
 						type: "POST",
 						dataType: "json",
-						url: "http://fatimarafiqui.com/resume/commands.php",
+						url: "commands.php",
 						data: args,
 						success: function(result) {
 							if (result.animate) {
@@ -169,4 +169,5 @@ $(document).ready(function(){
 		});
 	});
 });
-
+                            
+                            
