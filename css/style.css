@@ -4,7 +4,6 @@ html {
 	overflow-x: hidden;
 	overflow-y: hidden;
 }
-
 body {
 	overflow: hidden;
 	padding: 0px;
@@ -12,7 +11,6 @@ body {
 	font-size: 14px !important;
 	line-height: 16px !important;
 }
-
 #bodyCanvas {
 	height: 100%;
 	width: 100%;
@@ -20,41 +18,29 @@ body {
 .icons {
 	display: none;
 	position: fixed;
-	bottom: 20px;
+	bottom: 0px;
 	left: 50%;
-	 -ms-transform: translateX(-50%);
-   -webkit-transform: translateX(-50%);
-   transform: translateX(-50%);
-
-	a {
-		text-decoration: none;
-	}
+	padding: 10px 10px 10px;
+	background-color: rgba(158,155,152,0.5);
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	-ms-transform: translateX(-50%);
+   	-webkit-transform: translateX(-50%);
+   	transform: translateX(-50%);
 }
 .icons > .icons-item {
-	margin-right: 20px;
-	z-index:-2;
-   -webkit-box-shadow:0px 250px 15px -35px rgba(0,0,0,.25);
-   -moz-box-shadow:0px 250px 15px -35px rgba(0,0,0,.25);
-   box-shadow:0px 250px 15px -35px rgba(0,0,0,.25);
-   -webkit-border-radius:50%;
-   -moz-border-radius:50%;
-   border-radius:50%;
-   transform:scaleY(.3);
-   -webkit-transform:scaleY(.3);
-   -moz-transform:scaleY(.3);
-   -ms-transform:scaleY(.3);
-   -o-transform:scaleY(.3);
+	margin-right: 10px;
 	img {
 		width: 32px;
 	}
 }
 .icons a {
 	text-decoration: none;
+	font-size: 48px;
 }
 #content {
 	z-index: 999;
 }
-
 .shell-wrap {
 	width: 70%;
 	position: fixed;
@@ -63,7 +49,6 @@ body {
 	transform: translateX(-50%);
 	overflow-x: hidden;
 	box-shadow: 0 0 30px rgba(0,0,0,0.4);
-
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
@@ -76,7 +61,6 @@ body {
 .left {
 	float: left;
 }
-
 .shell-top-bar {
 	width:100%;
 	text-align: center;
@@ -86,14 +70,12 @@ body {
 	text-shadow: 1px 1px 0 rgba(255,255,255,0.5);
 	border: 1px solid #CCCCCC;
 	border-bottom: none;
-
 	-webkit-border-top-left-radius: 3px;
 	-webkit-border-top-right-radius: 3px;
 	-moz-border-radius-topleft: 3px;
 	-moz-border-radius-topright: 3px;
 	border-top-left-radius: 3px;
 	border-top-right-radius: 3px;
-
 	background: #f7f7f7; /* Old browsers */
 	background: -moz-linear-gradient(top,  #f7f7f7 0%, #B8B8B8 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f7f7f7), color-stop(100%,#B8B8B8)); /* Chrome,Safari4+ */
@@ -103,7 +85,6 @@ body {
 	background: linear-gradient(to bottom,  #f7f7f7 0%,#B8B8B8 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f7f7', endColorstr='#B8B8B8',GradientType=0 ); /* IE6-9 */
 }
-
 @keyframes blink {
     0% { opacity: 1; }
     25% { opacity: 0; }
@@ -128,20 +109,18 @@ body {
     50% { opacity: 0; }
     100% { opacity: 1; }
 }
-
 .cmd .cursor.blink {
     background: #0c0;
     -webkit-animation: blink 1s infinite linear;
-       -moz-animation: blink 1s infinite linear;
-        -ms-animation: blink 1s infinite linear;
-            animation: blink 1s linear infinite;
+    -moz-animation: blink 1s infinite linear;
+    -ms-animation: blink 1s infinite linear;
+    animation: blink 1s linear infinite;
     -webkit-box-shadow: 0 0 5px rgba(0,100,0,50);
-       -moz-box-shadow: 0 0 5px rgba(0,100,0,50);
-        -ms-box-shadow: 0 0 5px rgba(0,100,0,50);
-         -o-box-shadow: 0 0 5px rgba(0,100,0,50);
-            box-shadow: 0 0 5px rgba(0,100,0,50);
+    -moz-box-shadow: 0 0 5px rgba(0,100,0,50);
+    -ms-box-shadow: 0 0 5px rgba(0,100,0,50);
+    -o-box-shadow: 0 0 5px rgba(0,100,0,50);
+    box-shadow: 0 0 5px rgba(0,100,0,50);
 }
-
 .shell-top-bar a {
     display: inline-block;
     margin: 1px 0px 3px 4px;
@@ -152,15 +131,12 @@ body {
     text-indent: -9999px;
     position: relative;
 }
-
 .close {
 	background: #f11515;
 }
-
 .minimize {
 	background: #f7a30b;
 }
-
 .maximize {
 	background: #49b303;
 }
@@ -170,3 +146,12 @@ body {
 .white {
 	color: #fff;
 }
+.fa {
+    color: #343434;
+}
+a > .fa:hover { 
+    color: #f7660b;
+    font-size: 1.2em;
+    transition: 0.4s ease-out;
+}
+
