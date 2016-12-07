@@ -3,7 +3,7 @@ $(document).ready(function(){
 	if($(document).width() > 740) {
 		$(".icons").show();
 	}
-	$.getJSON('http://freegeoip.net/json/?callback=?', function(data) {
+	$.getJSON('http://freegeoip.net/json/?callback=?',function(data) {
 		$(function() {
 			var ip =  '127.0.0.1';
 			if(typeof data.ip !== 'undefined') {
