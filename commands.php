@@ -28,19 +28,17 @@
 			$config_json[$q]['msg'] = $help_text . generate_help($config_json) . '<br/>';
 		}
 		$data = array_merge_recursive($config_json[$q], $data);
-	} else {
+	} 
+		else {
 		$data = array_merge_recursive($config_json['default'], $data);
 		$data['status'] = false;
 	}
 	
 	$output = json_encode($data);
 	echo $output;
-?>
+?>   
                             
                             
                             
-                            
-                            
-                            
-                            
+                                         
                             
