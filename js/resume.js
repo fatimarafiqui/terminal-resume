@@ -111,7 +111,7 @@ $(document).ready(function(){
 					$.ajax({
 						type: "POST",
 						dataType: "json",
-						url: "commands.php",
+						url: "http://fatimarafiqui.com/resume/commands.php",
 						data: args,
 						success: function(result) {
 							if (result.animate) {
