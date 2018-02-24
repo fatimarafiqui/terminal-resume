@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width"/>
 		<meta name="author" content="Fatima Rafiqui"/>
 		<meta name="description" content="Fatima Rafiqui, DevOps intern @ Oracle Cloud Infrastructure. A thinker, a technophile & an engineer. She loves travelling, programming, designs & volunteering." />
-		<link rel="icon" href="http://fatimarafiqui.com/favicon.ico"/>
+		<link rel="icon" href="/favicon.ico"/>
         <title>Resume | Fatima Rafiqui</title>
 		<meta property="og:type" content="profile" />
 		<meta property="og:title" content="Resume | Fatima Rafiqui" />
@@ -17,9 +17,9 @@
 		<meta name="twitter:card" content="summary" />
 		<meta name="twitter:site" content="@fatima_rafiqui" />
 		<meta name="twitter:site:id" content="fatima_rafiqui" />
-		<link href="css/style.css" rel="stylesheet"/>
-		<link rel="stylesheet" href="fonts/css/font-awesome.min.css"/>
-		<link href="css/jquery.terminal-0.11.5.css" rel="stylesheet"/>
+		<link href="/css/style.css" rel="stylesheet"/>
+		<link rel="stylesheet" href="/fonts/css/font-awesome.min.css"/>
+		<link href="/css/jquery.terminal-0.11.5.css" rel="stylesheet"/>
 	</head>
 	<body>
 		<canvas id="bodyCanvas"></canvas>
@@ -46,11 +46,11 @@
 				<div class="shell-body span12" id="shell-body"></div>
 			</div>
 		</div>
-		<script src="js/jquery-3.1.0.min.js"></script>
-		<script src="js/jquery.terminal-0.11.11.min.js"></script>
-		<script src="js/jquery.mousewheel-min.js"></script>
-		<script src="js/liveBg.js"></script>
-		<script src="js/resume.js"></script>
+		<script src="/js/jquery-3.1.0.min.js"></script>
+		<script src="/js/jquery.terminal-0.11.11.min.js"></script>
+		<script src="/js/jquery.mousewheel-min.js"></script>
+		<script src="/js/liveBg.js"></script>
+		<script src="/js/resume.js"></script>
 	</body>
 </html>
 
