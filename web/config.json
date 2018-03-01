@@ -13,7 +13,7 @@
 	},
 	"ls": {
 		"title": "root",
-		"msg": "<a href='/resume.pdf' target='_blank'>Resume-FatimaRafiqui.pdf</a> <a href='#' class='email'>DetailedResume-FatimaRafiqui.pdf</a><script>$('.email').on( 'click', function(event) {event.preventDefault();var email = 'hello@fatimarafiqui.com';var subject = 'I saw your terminal resume';window.location = 'mailto:' + email + '?subject=' + subject;});</script>",
+		"msg": "<a href='/resume' target='_blank'>Resume-FatimaRafiqui.pdf</a> <a href='#' class='email'>DetailedResume-FatimaRafiqui.pdf</a><script>$('.email').on( 'click', function(event) {event.preventDefault();var email = 'hello@fatimarafiqui.com';var subject = 'I saw your terminal resume';window.location = 'mailto:' + email + '?subject=' + subject;});</script>",
 		"animate": false,
 		"help": ""
 	},
@@ -55,13 +55,13 @@
 	},
 	"resume": {
 		"title": "fatima/resume",
-		"msg": "<a href='/resume.pdf' target='_blank'>Download Resume</a>",
+		"msg": "<a href='/resume' target='_blank'>Download Resume</a>",
 		"animate": true,
 		"help": "Download my resume"
 	},
 	"contact": {
 		"title": "fatima/contact",
-		"msg": "<a href='https://fatimarafiqui.com/' target='_blank'>website</a> / <a href='#' class='email'>e-mail</a> / <a href='https://fatimarafiqui.com/twitter' target='_blank'>twitter</a> / <a href='https://fatimarafiqui.com/linkedin' target='_blank'>linkedin</a> / <a href='https://fatimarafiqui.com/quora' target='_blank'>quora</a><script>$('.email').on( 'click', function(event) {event.preventDefault();var email = 'hello@fatimarafiqui.com';var subject = 'I saw your terminal resume';window.location = 'mailto:' + email + '?subject=' + subject;});</script>",
+		"msg": "<a href='/' target='_blank'>website</a> / <a href='#' class='email'>e-mail</a> / <a href='/twitter' target='_blank'>twitter</a> / <a href='/linkedin' target='_blank'>linkedin</a> / <a href='/quora' target='_blank'>quora</a><script>$('.email').on( 'click', function(event) {event.preventDefault();var email = 'hello@fatimarafiqui.com';var subject = 'I saw your terminal resume';window.location = 'mailto:' + email + '?subject=' + subject;});</script>",
 		"animate": true,
 		"help": "Know about my contact."
 	},
