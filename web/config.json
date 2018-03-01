@@ -25,7 +25,7 @@
 	},
 	"whoami": {
 		"title": "fatima/about",
-		"msg": "Fatima Rafiqui: DevOps intern @ Oracle Cloud Infrastructure. A thinker, a technophile & an engineer. She loves travelling, programming, designs & volunteering.",
+		"msg": "Fatima Rafiqui: Former Student Developer at Google Summer of Code, DevOps intern at Oracle Eloqua Cloud Infrastructure. A thinker, a technophile & an engineer. She loves travelling, programming, designs & volunteering.",
 		"animate": true,
 		"help": "About me."
 	},
@@ -61,7 +61,7 @@
 	},
 	"contact": {
 		"title": "fatima/contact",
-		"msg": "<a href='/' target='_blank'>website</a> / <a href='#' class='email'>e-mail</a> / <a href='/twitter' target='_blank'>twitter</a> / <a href='/linkedin' target='_blank'>linkedin</a> / <a href='/quora' target='_blank'>quora</a><script>$('.email').on( 'click', function(event) {event.preventDefault();var email = 'hello@fatimarafiqui.com';var subject = 'I saw your terminal resume';window.location = 'mailto:' + email + '?subject=' + subject;});</script>",
+		"msg": "<a href='https://fatimarafiqui.com/' target='_blank'>website</a> / <a href='#' class='email'>e-mail</a> / <a href='https://fatimarafiqui.com/twitter' target='_blank'>twitter</a> / <a href='https://fatimarafiqui.com/linkedin' target='_blank'>linkedin</a> / <a href='https://fatimarafiqui.com/quora' target='_blank'>quora</a><script>$('.email').on( 'click', function(event) {event.preventDefault();var email = 'hello@fatimarafiqui.com';var subject = 'I saw your terminal resume';window.location = 'mailto:' + email + '?subject=' + subject;});</script>",
 		"animate": true,
 		"help": "Know about my contact."
 	},

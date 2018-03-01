@@ -5,7 +5,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 		<meta name="viewport" content="width=device-width"/>
 		<meta name="author" content="Fatima Rafiqui"/>
-		<meta name="description" content="Fatima Rafiqui, DevOps intern @ Oracle Cloud Infrastructure. A thinker, a technophile & an engineer. She loves travelling, programming, designs & volunteering." />
+		<meta name="description" content="Fatima Rafiqui, Former Student Developer @ GSoC, DevOps intern @ Oracle Cloud Infrastructure. A thinker, a technophile & an engineer. She loves travelling, programming, designs & volunteering." />
 		<link rel="icon" href="/favicon.ico"/>
         <title>Resume | Fatima Rafiqui</title>
 		<meta property="og:type" content="profile" />
