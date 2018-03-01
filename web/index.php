@@ -31,7 +31,7 @@
 					</a>
 				</span>
 				<span class="icons-item">
-					<a href="/resume.pdf" target="_blank">
+					<a href="https://fatimarafiqui.com/download-resume" target="_blank">
 						<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
 					</a>
 				</span>
