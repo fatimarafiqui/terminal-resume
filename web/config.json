@@ -25,7 +25,7 @@
   },
   "whoami": {
     "title": "fatima/about",
-    "msg": "Fatima Rafiqui: Former Student Developer at Google Summer of Code, DevOps intern at Oracle Eloqua Cloud Infrastructure. A thinker, a technophile & an engineer. She loves travelling, programming, designs & volunteering.",
+    "msg": "Fatima Rafiqui: A User Exeperience Designer who is an ally to her users. Former UX Design intern at Juniper Networks, Previously she was a UX Engineer for about 2 years. A UX designer, creative thinker & an engineer, she loves travelling, design & volunteering.",
     "animate": true,
     "help": "About me."
   },
@@ -37,13 +37,13 @@
   },
   "education": {
     "title": "fatima/education",
-    "msg": "<table><tr><td>*</td><td>Senior, CSE (2013-2017), Indira Gandhi Delhi Technical University of Women</td></tr><tr><td></td><td>2012, Jamia Girls Senior Secondary School</td></tr><tr><td></td><td>2010, Hamdard Public School </td></tr></table>",
+    "msg": "<table><tr><td>*</td><td>Masters in Human Computer Interaction & Design, (2019-2020), Indiana University Bloomington</td></tr></table>",
     "animate": true,
     "help": "Know about my education."
   },
   "college": {
     "title": "fatima/education",
-    "msg": "Senior, CSE (2013-2017), Indira Gandhi Delhi Technical University of Women",
+    "msg": "Masters in Human Computer Interaction & Design (2019-2020), Indiana University Bloomington",
     "animate": true,
     "help": "Know about my college."
   },
