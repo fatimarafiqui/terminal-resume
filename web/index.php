@@ -26,12 +26,12 @@
     <div id="content">
       <div class="icons">
         <span class="icons-item">
-          <a href="/" target="_blank">
+          <a href="https://www.fatimarafiqui.com/" target="_blank">
             <i class="fa fa-home" aria-hidden="true"></i>
           </a>
         </span>
         <span class="icons-item">
-          <a href="https://fatimarafiqui.com/download-resume" target="_blank">
+          <a href="https://www.fatimarafiqui.com/resume" target="_blank">
             <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
           </a>
         </span>
