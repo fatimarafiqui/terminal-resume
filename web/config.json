@@ -61,7 +61,7 @@
   },
   "contact": {
     "title": "fatima/contact",
-    "msg": "<a href='/' target='_blank'>website</a> / <a href='#' class='email'>e-mail</a> / <a href='/twitter' target='_blank'>twitter</a> / <a href='/linkedin' target='_blank'>linkedin</a> / <a href='/quora' target='_blank'>quora</a><script>$('.email').on( 'click', function(event) {event.preventDefault();var email = 'hello@fatimarafiqui.com';var subject = 'I saw your terminal resume';window.location = 'mailto:' + email + '?subject=' + subject;});</script>",
+    "msg": "<a href='/' target='_blank'>website</a> / <a href='#' class='email'>e-mail</a> / <a href='/twitter' target='_blank'>twitter</a> / <a href='/linkedin' target='_blank'>linkedin</a><script>$('.email').on( 'click', function(event) {event.preventDefault();var email = 'hello@fatimarafiqui.com';var subject = 'I saw your terminal resume';window.location = 'mailto:' + email + '?subject=' + subject;});</script>",
     "animate": true,
     "help": "Know about my contact."
   },
